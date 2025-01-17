@@ -27,11 +27,17 @@ This project is a simple customer management system that allows you to add, list
 When the program runs, you will see a menu like this:
 
 === Customer Management System ===
+
 1- Add New Customer
+
 2- List All Customers
+
 3- Search Customer by First Name
+
 4- Delete Customer
+
 0- Exit
+
 Enter your choice:
 
 Follow the options to manage customer information.
