@@ -40,6 +40,7 @@ When the program runs, you will see a menu like this:
 
 Enter your choice:
 
+
 Follow the options to manage customer information.
 
 ## 📁 File Structure
